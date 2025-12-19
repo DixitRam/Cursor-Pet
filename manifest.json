@@ -1,0 +1,35 @@
+{
+  "manifest_version": 3,
+  "name": "Cat Pet",
+  "version": "1.0",
+  "description": "A cute cat that follows your mouse cursor!",
+  "permissions": [
+    "activeTab",
+    "scripting"
+  ],
+  "host_permissions": [
+    "<all_urls>"
+  ],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "action": {
+    "default_title": "Cat Pet",
+    "default_icon": "icon2.png"
+  },
+  "icons": {
+    "16": "icon.png",
+    "48": "icon.png",
+    "128": "icon.png"
+  },
+  "web_accessible_resources": [
+    {
+      "resources": [
+        "NewFrames/download.png"
+      ],
+      "matches": [
+        "<all_urls>"
+      ]
+    }
+  ]
+}
