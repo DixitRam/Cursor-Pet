@@ -1,0 +1,12 @@
+.cat-container {
+  position: fixed;
+  z-index: 99999;
+  pointer-events: none;
+  width: 64px;
+  height: 64px;
+  background-repeat: no-repeat;
+  background-size: auto;
+  /* transition: transform 0.1s linear;  -- Removed for frame-based updates, might be jumpy with CSS transition + frame update */
+  image-rendering: pixelated;
+  /* Keeps pixel art crisp if valid */
+}
