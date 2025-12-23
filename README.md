@@ -1,8 +1,8 @@
 # Cursor Pet Extension 
 
-<a href="https://peerlist.io/dixitram/project/cursor-pet-extensions" target="_blank" rel="noreferrer">
+<a href="https://peerlist.io/dixitram/project/cursor-pet" target="_blank" rel="noreferrer">
 				<img
-					src="https://peerlist.io/api/v1/projects/embed/PRJHLKLMAPREGMQ7BCEOEDLL6PGN6A?showUpvote=false&theme=light"
+					src="https://peerlist.io/api/v1/projects/embed/PRJHLKLMAPREGMQ7BCEOEDLL6PGN6A?showUpvote=false&theme=dark"
 					alt="Cursor Pet Extensions"
 					style="width: auto; height: 72px;"
 				/>
