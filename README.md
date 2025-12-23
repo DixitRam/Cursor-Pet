@@ -1,7 +1,12 @@
 # Cursor Pet Extension 
 
-<img src="Logo.png" alt="drawing" width="200px"/>
-
+<a href="https://peerlist.io/dixitram/project/cursor-pet-extensions" target="_blank" rel="noreferrer">
+				<img
+					src="https://peerlist.io/api/v1/projects/embed/PRJHLKLMAPREGMQ7BCEOEDLL6PGN6A?showUpvote=false&theme=light"
+					alt="Cursor Pet Extensions"
+					style="width: auto; height: 72px;"
+				/>
+			</a>
 
 ## Description
 A cute pixel-art pet that lives in your browser! It follows your cursor, runs when you move, and breathes calmly when you stop. It's the perfect browsing companion —*Vibe Coded (Antigravity)*
